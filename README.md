@@ -6,7 +6,7 @@ Tracking contracts deployed by the AzoyaLabs Team on the Fetch AI CosmWasm-based
 Chain Id: dorado-1  
 
 #### CW20 
-Code Id: 796
+Code Id: 796  
 Address: fetch1h4wnys5k5zcshw5xd626a6fxd902swap6nwqfrmlhk3wfhfrwtpsjw3ms2  
 
 
