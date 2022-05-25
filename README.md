@@ -1,5 +1,7 @@
 # FetchAI_DeployedContracts
-Tracking contracts deployed by the AzoyaLabs Team on the Fetch AI CosmWasm-based blockchain 
+Tracking contracts deployed by the AzoyaLabs Team on the Fetch AI CosmWasm-based blockchain.  
+You can interact with these contracts in your browser using Fetch Station: https://FetchStation.AzoyaLabs.com  
+
 
 
 ## Dorado Testnet  
